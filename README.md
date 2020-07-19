@@ -23,9 +23,12 @@
 ![output](result2.png)
 ___
 >Customer
-![output](result1.png)
+![output](result3.png)
 ---
-![output](result2.png)
+![output](result4.png)
+---
+![output](result5.png)
+
 
 ### Webiste Link
 [visit website](https://cinematicinema.000webhostapp.com "cinematic")
