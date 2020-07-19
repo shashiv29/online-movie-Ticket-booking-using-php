@@ -4,8 +4,17 @@
 1. Administrator:- Manage User, Screens Movies, Show Timings, Upcoming Movies
 2. Customer:- View Show Timings, currently running movies, Upcoming movies &amp; Book online movie tickets
 
-
+## Technology(Language) used to develop this Sotware
+1.HTML
+2.CSS3
+3.JAVASCRIPT
+4.JQUERY
+5.BOOTSTRAP
+6.PHP 
+7.MYSQLi
+## Software Requirements
+1. XAMPP
 ### Webiste Link
 [visit website](https://cinematicinema.000webhostapp.com "cinematic")
  
- >keep smiling and work hard
+
