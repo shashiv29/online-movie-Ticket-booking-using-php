@@ -14,8 +14,12 @@
 7. MYSQLi
 ## Software Requirements
 1. XAMPP
-output:-
-![output](result1.jpg)
+---
+**output:-**
+![output](result1.png)
+---
+![output](result2.png)
+
 ### Webiste Link
 [visit website](https://cinematicinema.000webhostapp.com "cinematic")
  
