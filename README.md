@@ -17,12 +17,14 @@
 ---
 **output:-**
 
->Customer
+>>## Customer
+
 ![output](result1.png)
 ---
 ![output](result2.png)
 ___
->Customer
+>>## Administrarion
+
 ![output](result3.png)
 ---
 ![output](result4.png)
