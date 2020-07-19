@@ -7,11 +7,11 @@
 ## Technology(Language) used to develop this Sotware
 1. HTML
 2. CSS3
-3.JAVASCRIPT
-4.JQUERY
-5.BOOTSTRAP
-6.PHP 
-7.MYSQLi
+3. JAVASCRIPT
+4. JQUERY
+5. BOOTSTRAP
+6. PHP 
+7. MYSQLi
 ## Software Requirements
 1. XAMPP
 ### Webiste Link
