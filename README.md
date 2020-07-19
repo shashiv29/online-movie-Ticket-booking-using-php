@@ -16,6 +16,13 @@
 1. XAMPP
 ---
 **output:-**
+
+>Customer
+![output](result1.png)
+---
+![output](result2.png)
+___
+>Customer
 ![output](result1.png)
 ---
 ![output](result2.png)
