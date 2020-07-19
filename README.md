@@ -8,4 +8,4 @@
 ### Webiste Link
 [visit website](https://cinematicinema.000webhostapp.com "cinematic")
  
- >>keep smiling and work hard
+ >keep smiling and work hard
