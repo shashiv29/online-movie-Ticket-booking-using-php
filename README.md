@@ -29,12 +29,11 @@ ___
 ---
 ![output](result4.png)
 ---
-![output](result5.png)
-
-
-                                                             # keep smiling and work hard
+![output](result5.png)                                                            
 
 ### Webiste Link
 [visit website](https://cinematicinema.000webhostapp.com "cinematic")
+
+->Keep Smiling and work hard!<-
  
 
