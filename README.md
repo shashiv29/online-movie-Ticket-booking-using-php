@@ -23,7 +23,7 @@
 ---
 ![output](result2.png)
 ___
->>## Administrarion
+>>## Administration
 
 ![output](result3.png)
 ---
